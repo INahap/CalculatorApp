@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&family=Rampart+One&display=swap%27);
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&family=Rampart+One&display=swap%27');
 
-{
-    /font-family: 'Rampart One', cursive; */ 
-    font-family: 'Klee One', cursive;
+*{
+    font-family: 'Rampart One', cursive; 
     font-size: 18px;
 }
 
